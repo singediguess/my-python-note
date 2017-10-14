@@ -1,0 +1,10 @@
+class Dog():
+    color = 'brown'
+    name = 'doggy'
+    def get_color():
+        print(123)
+        return 55
+
+obj = Dog()
+#obj == self
+print (obj.get_color())
