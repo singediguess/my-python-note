@@ -1,0 +1,4 @@
+from mkmsg_mod.MakeMsg import MsgUser
+
+obj = MsgUser()
+print (obj.make_msg())
